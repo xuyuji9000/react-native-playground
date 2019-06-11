@@ -2,7 +2,7 @@
 
 - init `react-native init AwesomeProject`
 
-- Run react native app:
+- Run react native app in iOS simulator
 
 ``` bash
 npm start
